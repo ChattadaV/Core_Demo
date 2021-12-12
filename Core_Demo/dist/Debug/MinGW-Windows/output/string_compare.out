@@ -1,0 +1,14 @@
+argc: 5
+argv[ 0 ]: core_demo.exe
+argv[ 1 ]: /string_compare
+argv[ 2 ]: Hamster
+argv[ 3 ]: hamster
+argv[ 4 ]: case_sensitive
+Results: -1
+argc: 5
+argv[ 0 ]: core_demo.exe
+argv[ 1 ]: /string_compare
+argv[ 2 ]: Hamster
+argv[ 3 ]: hamster
+argv[ 4 ]: case_insensitive
+Results: 0

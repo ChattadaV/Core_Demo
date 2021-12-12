@@ -1,0 +1,8 @@
+argc: 4
+argv[ 0 ]: core_demo.exe
+argv[ 1 ]: /string_find
+argv[ 2 ]: banana
+argv[ 3 ]: na
+Count: 2
+0: 2
+1: 4
